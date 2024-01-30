@@ -2,9 +2,33 @@
 	path = .registry
 	url = https://github.com/sprfmo/sprfmo.r-universe.dev
 	branch = HEAD
+[submodule "FLBRP"]
+	path = FLBRP
+	url = https://github.com/flr/FLBRP
+[submodule "FLCore"]
+	path = FLCore
+	url = https://github.com/flr/FLCore
+[submodule "FLFishery"]
+	path = FLFishery
+	url = https://github.com/flr/FLFishery
+[submodule "FLSRTMB"]
+	path = FLSRTMB
+	url = https://github.com/flr/FLSRTMB
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLasher
 [submodule "FLjjm"]
 	path = FLjjm
 	url = https://github.com/SPRFMO/FLjjm
+[submodule "ggplotFL"]
+	path = ggplotFL
+	url = https://github.com/flr/ggplotFL
 [submodule "jjmR"]
 	path = jjmR
 	url = https://github.com/SPRFMO/jjmr
+[submodule "mse"]
+	path = mse
+	url = https://github.com/flr/mse
+[submodule "mseviz"]
+	path = mseviz
+	url = https://github.com/flr/mseviz
