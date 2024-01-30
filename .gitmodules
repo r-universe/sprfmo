@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/sprfmo/universe
+	url = https://github.com/sprfmo/sprfmo.r-universe.dev
 	branch = HEAD
 [submodule "FLjjm"]
 	path = FLjjm
