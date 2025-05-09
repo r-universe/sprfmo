@@ -20,6 +20,9 @@
 [submodule "FLjjm"]
 	path = FLjjm
 	url = https://github.com/SPRFMO/FLjjm
+[submodule "TAF"]
+	path = TAF
+	url = https://github.com/ices-tools-prod/TAF
 [submodule "ggplotFL"]
 	path = ggplotFL
 	url = https://github.com/flr/ggplotFL
