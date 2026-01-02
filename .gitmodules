@@ -36,6 +36,9 @@
 	path = mse
 	url = https://github.com/flr/mse
 	branch = est_flstocks
+[submodule "msemodules"]
+	path = msemodules
+	url = https://github.com/flr/msemodules
 [submodule "mseviz"]
 	path = mseviz
 	url = https://github.com/flr/mseviz
