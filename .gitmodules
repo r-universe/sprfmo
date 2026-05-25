@@ -41,3 +41,7 @@
 [submodule "mseviz"]
 	path = mseviz
 	url = https://github.com/flr/mseviz
+[submodule "spict"]
+	path = spict
+	url = https://github.com/iagomosqueira/spict
+	subdir = spict
